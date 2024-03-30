@@ -1,0 +1,572 @@
+{
+    "MENU": [
+  
+                {
+                    "MENU": "Seafood Okro with Fresh Fish(2), Crab & Shrimps (Oiless)",
+                    "PRICE" : 4000,
+                    "CATEGORY":  "SOUP"
+                  
+                },
+                {
+                    "MENU": "Afang Soup with Beef & Pomo",
+                    "PRICE" : 4000,
+                    "CATEGORY":  "SOUP"
+                   
+                },
+                {
+                    "MENU": "Egusi Soup with Beef & Pomo",
+                    "PRICE" : 3000,
+                    "CATEGORY":  "SOUP"
+                  
+                },
+                {
+                    "MENU": "Edikaikong (Vegetable) Soup with Beef & Pomo",
+                    "PRICE" : 3000,
+                    "CATEGORY":  "SOUP"
+                    
+                },
+                {
+                    "MENU": "Eforiro (Vegetable) Soup with Beef & Pomo",
+                    "PRICE" : 3000,
+                    "CATEGORY":  "SOUP"
+                    
+                },
+                {
+                    "MENU": "Vegetable Soup (Without Meat)",
+                    "PRICE" : 2000,
+                    "CATEGORY":  "SOUP"
+                   
+                },
+                {
+                    "MENU": "Banga Soup (Oiless) with Starch",
+                    "PRICE" : 3000,
+                    "CATEGORY":  "SOUP"
+                    
+                },
+                {
+                    "MENU": "Vegetable Soup (Oil Version) with Beef & Pomo",
+                    "PRICE" : 3000,
+                    "CATEGORY":  "SOUP"
+                    
+                },
+                {
+                    "MENU": "Vegetable Soup (Oil Version) without Meat",
+                    "PRICE" : 2500,
+                    "CATEGORY":  "SOUP"
+                },
+                {
+                    "MENU": "Vegetable Soup (Oil Version) with Goatmeat & Cowleg",
+                    "PRICE" : 4000,
+                    "CATEGORY":  "SOUP"
+                },
+                {
+                    "MENU": "Pepper Soup with Goatmeat & Catfish (Includes Swallow)",
+                    "PRICE" : 4000,
+                    "CATEGORY":  "SOUP"
+                },
+                {
+                    "MENU": "Black Soup (Oiless) with Assorted Meat",
+                    "PRICE" : 4000,
+                    "CATEGORY":  "SOUP"
+                }
+            
+        ,
+  
+            
+                {
+                    "MENU": "Ofada Rice & Ofada Sauce with Boiled Egg & Protein bites",
+                    "PRICE": 3300,
+                    "CATEGORY":  "RICE MEALS",
+                    "BOWLS": 300
+                },
+                {
+                    "MENU": "Jollof Rice & Fried Plantain with Turkey",
+                    "PRICE": 3200,
+                    "CATEGORY":  "RICE MEALS",
+                    "BOWLS": 200
+                },
+                {
+                    "MENU": "Jollof Rice & Fried Plantain with Chicken",
+                    "PRICE": 3000,
+                    "CATEGORY":  "RICE MEALS",
+                    "BOWLS": 200
+                },
+                {
+                    "MENU": "White Rice & Ofada Sauce with Boiled Egg & Protein bites",
+                    "PRICE": 3000,
+                    "CATEGORY":  "RICE MEALS",
+                    "BOWLS": 300
+                },
+                {
+                    "MENU": "White Rice & Fried Plantain with Pepper Sauce & Turkey",
+                    "PRICE": 3200,
+                    "CATEGORY":  "RICE MEALS",
+                    "BOWLS": 300
+                },
+                {
+                    "MENU": "White Rice, Beans with Fried Plantain with Pepper Sauce & Turkey/Croaker Fish",
+                    "PRICE": 3500,
+                    "CATEGORY":  "RICE MEALS",
+                    "BOWLS": 300
+                },
+                {
+                    "MENU": "White Rice & Fried Plantain with Pepper Sauce & Chicken",
+                    "PRICE": 3000,
+                    "CATEGORY":  "RICE MEALS",
+                    "BOWLS": 300
+                },
+                {
+                    "MENU": "Fried Rice & Fried Plantain with Turkey",
+                    "PRICE": 3500,
+                    "CATEGORY":  "RICE MEALS",
+                    "BOWLS": 200
+                },
+                {
+                    "MENU": "Fried Rice & Fried Plantain with Chicken",
+                    "PRICE": 3300,
+                    "CATEGORY":  "RICE MEALS",
+                    "BOWLS": 200
+                },
+                
+               
+                {
+                    "MENU": "White Rice & Fried Plantain with Designer Beef Sauce & Boiled Egg",
+                    "PRICE": 3200,
+                    "CATEGORY":  "RICE MEALS",
+                    "BOWLS": 300
+                },
+                {
+                    "MENU": "White Rice & Fried Plantain with Designer Ejakika Sauce",
+                    "PRICE": 3200,
+                    "CATEGORY":  "RICE MEALS",
+                    "BOWLS": 300
+                },
+          
+      
+                {
+                    "MENU": "Yam Porridge & Fried Plantain with Titus Fish/Chicken",
+                    "PRICE": 3000,
+                    "CATEGORY":  "YAM & PLANTAIN",
+                    "BOWLS": 200
+                },
+                {
+                    "MENU": "Gizdodo - Peppereed Diced Fried Plantain with Diced Gizzard & Mixed Veggies",
+                    "PRICE": 1500,
+                    "CATEGORY":  "YAM & PLANTAIN",
+                    "BOWLS": 200
+                },
+                {
+                    "MENU": "Boiled/Fried Yam with Pepper Sauce",
+                    "PRICE": 1500,
+                    "CATEGORY":  "YAM & PLANTAIN",
+                    "BOWLS": 300
+                },
+                {
+                    "MENU": "Boiled/Fried Yam with Pomo Sauce or Ejakika Sauce or Egg Sauce",
+                    "PRICE": 2000,
+                    "CATEGORY":  "YAM & PLANTAIN",
+                    "BOWLS": 300
+                },
+                {
+                    "MENU": "Boiled/Fried Plantain with Pepper Sauce",
+                    "PRICE": 1500,
+                    "CATEGORY":  "YAM & PLANTAIN",
+                    "BOWLS": 300
+                },
+                {
+                    "MENU": "Boiled/Fried Plantain with Pomo Sauce or Ejakika Sauce or Egg Sauce",
+                    "PRICE": 2000,
+                    "CATEGORY":  "YAM & PLANTAIN",
+                    "BOWLS": 300
+                },
+                {
+                    "MENU": "Boiled/Fried Sweet Potatoes with Pepper Sauce",
+                    "PRICE": 1500,
+                    "CATEGORY":  "YAM & PLANTAIN",
+                    "BOWLS": 300
+                },
+                {
+                    "MENU": "Boiled/Fried Sweet Potatoes with Pomo Sauce or Ejakika Sauce or Egg Sauce",
+                    "PRICE": 2000,
+                    "CATEGORY":  "YAM & PLANTAIN",
+                    "BOWLS": 300
+                },
+                {
+                    "MENU": "Dundun & Dodo Platter with Pepper Sauce",
+                    "PRICE": 1500,
+                    "CATEGORY":  "YAM & PLANTAIN",
+                    "BOWLS": 300
+                },
+                {
+                    "MENU": "Dundun & Dodo Platter with Pomo Sauce or Ejakika Sauce or Egg Sauce",
+                    "PRICE": 2000,
+                    "CATEGORY":  "YAM & PLANTAIN",
+                    "BOWLS": 300
+                },
+       
+       
+                {
+                    "MENU": "Jollof Spaghetti & Fried Plantain with Turkey",
+                    "PRICE": 3000,
+                    "CATEGORY":  "PASTA & NOODLES",
+                    "BOWLS": 200
+                },
+                {
+                    "MENU": "Jollof Spaghetti & Fried Plantain with Chicken",
+                    "PRICE": 3000,
+                    "CATEGORY":  "PASTA & NOODLES",
+                    "BOWLS": 200
+                },
+                {
+                    "MENU": "Boiled Pasta with Fried Plantain & Chicken",
+                    "PRICE": 3000,
+                    "CATEGORY":  "PASTA & NOODLES",
+                    "BOWLS": 200
+                },
+                {
+                    "MENU": "Boiled Pasta with Fried Plantain & Turkey",
+                    "PRICE": 3000,
+                    "CATEGORY":  "PASTA & NOODLES",
+                    "BOWLS": 200
+                },
+                {
+                    "MENU": "Peppered Noodles & Mixed Veggies with Boiled Egg",
+                    "PRICE": 1500,
+                    "CATEGORY":  "PASTA & NOODLES",
+                    "BOWLS": 200
+                },
+                {
+                    "MENU": "Peppered Noodles & Mixed Veggies with Fried Egg",
+                    "PRICE": 1500,
+                    "CATEGORY":  "PASTA & NOODLES",
+                    "BOWLS": 200
+                },
+                {
+                    "MENU": "Peppered Noodles & Mixed Veggies with Sausage",
+                    "PRICE": 1500,
+                    "CATEGORY":  "PASTA & NOODLES",
+                    "BOWLS": 200
+                },
+                {
+                    "MENU": "Peppered Noodles & Mixed Veggies with Ejakika (Smoked fish)",
+                    "PRICE": 1800,
+                    "CATEGORY":  "PASTA & NOODLES",
+                    "BOWLS": 200
+                },
+                {
+                    "MENU": "Peppered Noodles Platter with Mixed Veggies, Sausage, Egg & Ejakika (Smoked fish)",
+                    "PRICE": 2200,
+                    "CATEGORY":  "PASTA & NOODLES",
+                    "BOWLS": 200
+                },
+         
+       
+                {
+                    "MENU": "Ewa Agoyin & Fried Plantain with Titus Fish",
+                    "PRICE": 3000,
+                    "CATEGORY":  "BEANS",
+                    "BOWLS": 200
+                },
+                {
+                    "MENU": "Stewed Beans & Fried Plantain with Titus Fish",
+                    "PRICE": 3000,
+                    "CATEGORY":  "BEANS",
+                    "BOWLS": 200
+                },
+                {
+                    "MENU": "Plain Beans",
+                    "PRICE": 300,
+                    "CATEGORY":  "BEANS"
+                },
+                {
+                    "MENU": "Moimoi with Titus & Egg",
+                    "PRICE": 500,
+                    "CATEGORY":  "BEANS"
+                },
+     
+       
+                {
+                    "MENU": "MINI - Springrolls, Samosa, Puffpuff & Peppered Gizzard",
+                    "PRICE": 1300,
+                    "CATEGORY":  "SMALLCHOPS & GRILLS"
+                },
+                {
+                    "MENU": "MIDI - Springrolls, Samosa, Puffpuff & Grilled Chicken",
+                    "PRICE": 1500,
+                    "CATEGORY":  "SMALLCHOPS & GRILLS"
+                },
+                {
+                    "MENU": "MAXI - Springrolls, Samosa, Puffpuff & Grilled Turkey",
+                    "PRICE": 2200,
+                    "CATEGORY":  "SMALLCHOPS & GRILLS"
+                },
+                {
+                    "MENU": "DOUBLE - Springrolls, Samosa, Puffpuff with Grilled Chicken & Grilled Turkey",
+                    "PRICE": 2700,
+                    "CATEGORY":  "SMALLCHOPS & GRILLS"
+                },
+                {
+                    "MENU": "DELUXE - Springrolls, Samosa, Puffpuff with Peppered Gizzard, Grilled Chicken & Grilled Turkey",
+                    "PRICE": 3200,
+                    "CATEGORY":  "SMALLCHOPS & GRILLS"
+                },
+                {
+                    "MENU": "Fried Yam & Fried Plantain Platter with Pepper Sauce & Grilled Chicken",
+                    "PRICE": 2000,
+                    "CATEGORY":  "SMALLCHOPS & GRILLS"
+                },
+                {
+                    "MENU": "Fried Yam & Fried Plantain Platter with Pepper Sauce & Grilled Turkey",
+                    "PRICE": 2700,
+                    "CATEGORY":  "SMALLCHOPS & GRILLS"
+                },
+                {
+                    "MENU": "Grilled Chicken (pack of 6)",
+                    "PRICE": 3500,
+                    "CATEGORY":  "SMALLCHOPS & GRILLS"
+                },
+                {
+                    "MENU": "Grilled Turkey (pack of 4)",
+                    "PRICE": 5000,
+                    "CATEGORY":  "SMALLCHOPS & GRILLS"
+                }
+          
+            ,
+                {
+                    "MENU": "White Rice with Pepper Sauce Chicken",
+                    "CATEGORY":  "LUNCHPACK",
+                    "PRICE": 1500,
+                    "BOWLS": 100
+                },
+                {
+                    "MENU": "Jollof Rice & Chicken",
+                    "CATEGORY":  "LUNCHPACK",
+                    "PRICE": 1500
+                },
+                {
+                    "MENU": "Yam Porridge & Chicken",
+                    "CATEGORY":  "LUNCHPACK",
+                    "PRICE": 1500
+                },
+                {
+                    "MENU": "Jollof Spaghetti & Chicken",
+                    "CATEGORY":  "LUNCHPACK",
+                    "PRICE": 1500
+                },
+                {
+                    "MENU": "Eba & Egusi Soup with Beef & Pomo",
+                    "CATEGORY":  "LUNCHPACK",
+                    "PRICE": 1500,
+                    "BOWLS": 100
+                },
+                {
+                    "MENU": "Semo & Egusi Soup with Beef & Pomo",
+                    "CATEGORY":  "LUNCHPACK",
+                    "PRICE": 1500,
+                    "BOWLS": 100
+                }
+          
+           ,
+                {
+                    "MENU": "Special Seafood Okro (Fresh fish 2, Shrimp & Crab)",
+                    "CATEGORY":  "EXTRAS",
+                    "PRICE": 3500,
+                    "BOWLS": 200
+                },
+                {
+                    "MENU": "Ofada Sauce with Assorted protein & Boiled egg (1 portion)",
+                    "CATEGORY":  "EXTRAS",
+                    "PRICE": 1500,
+                    "BOWLS": 100
+                },
+                {
+                    "MENU": "Beef",
+                    "CATEGORY":  "EXTRAS",
+                    "PRICE": 300
+                },
+                {
+                    "MENU": "Pomo",
+                    "CATEGORY":  "EXTRAS",
+                    "PRICE": 300
+                },
+                {
+                    "MENU": "Saki",
+                    "CATEGORY":  "EXTRAS",
+                    "PRICE": 300
+                },
+                {
+                    "MENU": "Fried Egg",
+                    "CATEGORY":  "EXTRAS",
+                    "PRICE": 300
+                },
+                {
+                    "MENU": "Egg Sauce",
+                    "CATEGORY":  "EXTRAS",
+                    "PRICE": 600,
+                    "BOWLS": 100
+                },
+                {
+                    "MENU": "Goatmeat",
+                    "CATEGORY":  "EXTRAS",
+                    "PRICE": 800
+                },
+                {
+                    "MENU": "Gizzard",
+                    "CATEGORY": "EXTRAS",
+                    "PRICE": 600
+                },
+                {
+                    "MENU": "Turkey",
+                    "CATEGORY": "EXTRAS",
+                    "PRICE": 1000
+                },
+                {
+                    "MENU": "Chicken",
+                    "CATEGORY": "EXTRAS",
+                    "PRICE": 800
+                },
+                {
+                    "MENU": "Grilled Chicken (pack of 6)",
+                    "CATEGORY": "EXTRAS",
+                    "PRICE": 3500
+                },
+                {
+                    "MENU": "Grilled Turkey (pack of 4)",
+                    "CATEGORY": "EXTRAS",
+                    "PRICE": 5000
+                },
+                {
+                    "MENU": "Titus Fish",
+                    "CATEGORY": "EXTRAS",
+                    "PRICE": 700
+                },
+                {
+                    "MENU": "Croaker Fish",
+                    "CATEGORY": "EXTRAS",
+                    "PRICE": 1000
+                },
+                {
+                    "MENU": "Fried Panla Fish",
+                    "CATEGORY": "EXTRAS",
+                    "PRICE": 700
+                },
+                {
+                    "MENU": "Boiled Egg",
+                    "CATEGORY": "EXTRAS",
+                    "PRICE": 200
+                },
+                {
+                    "MENU": "Peppered Smoked Fish (Ejakika)",
+                    "CATEGORY": "EXTRAS",
+                    "PRICE": 600,
+                    "BOWLS": 100
+                },
+                {
+                    "MENU": "Peppered Snail",
+                    "CATEGORY": "EXTRAS",
+                    "PRICE": 1500
+                },
+                {
+                    "MENU": "Ejakika Sauce",
+                    "CATEGORY": "EXTRAS",
+                    "PRICE": 800,
+                    "BOWLS": 100
+                },
+                {
+                    "MENU": "Chicken Wings",
+                    "CATEGORY": "EXTRAS",
+                    "PRICE": 2000,
+                    "BOWLS": 200
+                },
+                {
+                    "MENU": "Peppered Pomo",
+                    "CATEGORY": "EXTRAS",
+                    "PRICE": 1000,
+                    "BOWLS": 100
+                }
+          
+           ,
+                {
+                    "MENU": "Malt",
+                    "CATEGORY":  "DRINKS",
+                    "PRICE": 400
+                },
+                {
+                    "MENU": "Bottled Water",
+                    "CATEGORY":  "DRINKS",
+                    "PRICE": 200
+                },
+                {
+                    "MENU": "Coke",
+                    "CATEGORY":  "DRINKS",
+                    "PRICE": 300
+                },
+                {
+                    "MENU": " Fanta",
+                    "CATEGORY":  "DRINKS",
+                    "PRICE": 300
+                },
+                {
+                    "MENU": "  Sprite",
+                    "CATEGORY":  "DRINKS",
+                    "PRICE": 300
+                }
+           ,
+      
+            { 
+                "MENU" : "Amala",
+                "CATEGORY":  "SWALLOW",
+                "PRICE": 0
+
+        },
+            {
+                "MENU" : "Eba",
+                "CATEGORY":  "SWALLOW",
+                "PRICE": 0
+                },
+            {
+                "MENU" : "Semo",
+                "CATEGORY":  "SWALLOW",
+                "PRICE": 0
+                },
+            {
+                "MENU" : "Wheat",
+                "CATEGORY":  "SWALLOW",
+                "PRICE": 0
+                },
+            {
+                "MENU" : "Poundo",
+                "CATEGORY":  "SWALLOW",
+                "PRICE": 200
+                },
+            {
+                "MENU" : "Original Poundo",
+                "CATEGORY":  "SWALLOW",
+                "PRICE": 500
+                }   
+      
+    ],
+    "Landing_Page": {
+        "SPECIAL_ORDER":[
+            {
+                "NAME":"Ewa Agoyin, Fried Plantain and Chicken",
+                "PRICE":4000,
+                "CATEGORY":"BEANS",
+                "IMAGE":"Rectangle12.png"
+            },
+            {
+                "NAME":"Stir Fried Rice and Chicken",
+                "PRICE": 3500,
+                "CATEGORY":"BEANS",
+                "IMAGE":"Rectangle13.png"
+            },
+            {
+                "NAME":"Pounded Yam, Efo Riro and Assorted Meat",
+                "PRICE":2000,
+                "CATEGORY":"SOUP",
+                "IMAGE":"Rectangle14.png"
+            }
+        ]
+       
+    }
+}
